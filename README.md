@@ -1,5 +1,12 @@
 # Tienda-de-ropa
 Modelo de base de datos para la gestión de inventario y ventas en una tienda de ropa.
+
+Integrantes:
+•	Adriana Bajaña
+•	Nora Cedillo
+•	Soliz Liseth
+•	Pinargotte Allisson
+
 Preguntas 
 ¿Qué es?
 Son prendas de vestir que siguen las últimas tendencias de la moda, ofrecidas a precios accesibles y con excelente calidad.  Nos especializamos en seleccionar lo mejor de cada temporada para que puedas lucir a la moda sin gastar de más.
