@@ -1,11 +1,12 @@
-# Tienda-de-ropa
-Modelo de base de datos para la gestión de inventario y ventas en una tienda de ropa.
-
-Integrantes:
+Ingtegrantes:
 •	Adriana Bajaña
 •	Nora Cedillo
 •	Soliz Liseth
 •	Pinargotte Allisson
+# Tienda-de-ropa
+Modelo de base de datos para la gestión de inventario y ventas en una tienda de ropa.
+
+
 
 Preguntas 
 ¿Qué es?
