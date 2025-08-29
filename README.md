@@ -1,4 +1,4 @@
-Ingtegrantes:
+#Ingtegrantes:
 •	Adriana Bajaña
 •	Nora Cedillo
 •	Soliz Liseth
@@ -35,6 +35,11 @@ Marca de la ropa:
 Precio:
 Tipo de tela:
 País de fabricación:
+
+#Relaciones principales:
+Un cliente realiza muchas ventas.
+Una venta puede incluir varias prendas.
+Una prenda puede estar en varias ventas.
 
 
 
